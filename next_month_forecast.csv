@@ -1,0 +1,21 @@
+month,item_code,item_name,warehouse,predicted_quantity
+2026-01-01,ITEM001,Brake Pad,Bangalore,102
+2026-01-01,ITEM001,Brake Pad,Rasipuram,58
+2026-01-01,ITEM002,Engine Oil,Bangalore,128
+2026-01-01,ITEM002,Engine Oil,Rasipuram,90
+2026-01-01,ITEM003,Air Filter,Bangalore,144
+2026-01-01,ITEM003,Air Filter,Rasipuram,97
+2026-01-01,ITEM004,Spark Plug,Bangalore,188
+2026-01-01,ITEM004,Spark Plug,Rasipuram,124
+2026-01-01,ITEM005,Clutch Cable,Bangalore,185
+2026-01-01,ITEM005,Clutch Cable,Rasipuram,152
+2026-01-01,ITEM006,Chain Kit,Bangalore,235
+2026-01-01,ITEM006,Chain Kit,Rasipuram,151
+2026-01-01,ITEM007,Battery,Bangalore,217
+2026-01-01,ITEM007,Battery,Rasipuram,149
+2026-01-01,ITEM008,Headlamp,Bangalore,275
+2026-01-01,ITEM008,Headlamp,Rasipuram,171
+2026-01-01,ITEM009,Tyre,Bangalore,309
+2026-01-01,ITEM009,Tyre,Rasipuram,204
+2026-01-01,ITEM010,Oil Filter,Bangalore,328
+2026-01-01,ITEM010,Oil Filter,Rasipuram,232

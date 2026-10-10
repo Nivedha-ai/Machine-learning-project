@@ -1,0 +1,961 @@
+month,item_code,item_name,warehouse,quantity
+2022-01-01,ITEM001,Brake Pad,Bangalore,86
+2022-02-01,ITEM001,Brake Pad,Bangalore,85
+2022-03-01,ITEM001,Brake Pad,Bangalore,108
+2022-04-01,ITEM001,Brake Pad,Bangalore,113
+2022-05-01,ITEM001,Brake Pad,Bangalore,84
+2022-06-01,ITEM001,Brake Pad,Bangalore,84
+2022-07-01,ITEM001,Brake Pad,Bangalore,88
+2022-08-01,ITEM001,Brake Pad,Bangalore,75
+2022-09-01,ITEM001,Brake Pad,Bangalore,71
+2022-10-01,ITEM001,Brake Pad,Bangalore,63
+2022-11-01,ITEM001,Brake Pad,Bangalore,77
+2022-12-01,ITEM001,Brake Pad,Bangalore,84
+2023-01-01,ITEM001,Brake Pad,Bangalore,90
+2023-02-01,ITEM001,Brake Pad,Bangalore,109
+2023-03-01,ITEM001,Brake Pad,Bangalore,112
+2023-04-01,ITEM001,Brake Pad,Bangalore,102
+2023-05-01,ITEM001,Brake Pad,Bangalore,112
+2023-06-01,ITEM001,Brake Pad,Bangalore,92
+2023-07-01,ITEM001,Brake Pad,Bangalore,99
+2023-08-01,ITEM001,Brake Pad,Bangalore,81
+2023-09-01,ITEM001,Brake Pad,Bangalore,74
+2023-10-01,ITEM001,Brake Pad,Bangalore,68
+2023-11-01,ITEM001,Brake Pad,Bangalore,84
+2023-12-01,ITEM001,Brake Pad,Bangalore,82
+2024-01-01,ITEM001,Brake Pad,Bangalore,90
+2024-02-01,ITEM001,Brake Pad,Bangalore,102
+2024-03-01,ITEM001,Brake Pad,Bangalore,118
+2024-04-01,ITEM001,Brake Pad,Bangalore,120
+2024-05-01,ITEM001,Brake Pad,Bangalore,118
+2024-06-01,ITEM001,Brake Pad,Bangalore,111
+2024-07-01,ITEM001,Brake Pad,Bangalore,115
+2024-08-01,ITEM001,Brake Pad,Bangalore,83
+2024-09-01,ITEM001,Brake Pad,Bangalore,75
+2024-10-01,ITEM001,Brake Pad,Bangalore,71
+2024-11-01,ITEM001,Brake Pad,Bangalore,84
+2024-12-01,ITEM001,Brake Pad,Bangalore,97
+2025-01-01,ITEM001,Brake Pad,Bangalore,98
+2025-02-01,ITEM001,Brake Pad,Bangalore,102
+2025-03-01,ITEM001,Brake Pad,Bangalore,110
+2025-04-01,ITEM001,Brake Pad,Bangalore,130
+2025-05-01,ITEM001,Brake Pad,Bangalore,128
+2025-06-01,ITEM001,Brake Pad,Bangalore,118
+2025-07-01,ITEM001,Brake Pad,Bangalore,96
+2025-08-01,ITEM001,Brake Pad,Bangalore,93
+2025-09-01,ITEM001,Brake Pad,Bangalore,84
+2025-10-01,ITEM001,Brake Pad,Bangalore,82
+2025-11-01,ITEM001,Brake Pad,Bangalore,90
+2025-12-01,ITEM001,Brake Pad,Bangalore,94
+2022-01-01,ITEM001,Brake Pad,Rasipuram,59
+2022-02-01,ITEM001,Brake Pad,Rasipuram,63
+2022-03-01,ITEM001,Brake Pad,Rasipuram,69
+2022-04-01,ITEM001,Brake Pad,Rasipuram,73
+2022-05-01,ITEM001,Brake Pad,Rasipuram,59
+2022-06-01,ITEM001,Brake Pad,Rasipuram,62
+2022-07-01,ITEM001,Brake Pad,Rasipuram,55
+2022-08-01,ITEM001,Brake Pad,Rasipuram,49
+2022-09-01,ITEM001,Brake Pad,Rasipuram,46
+2022-10-01,ITEM001,Brake Pad,Rasipuram,52
+2022-11-01,ITEM001,Brake Pad,Rasipuram,44
+2022-12-01,ITEM001,Brake Pad,Rasipuram,57
+2023-01-01,ITEM001,Brake Pad,Rasipuram,50
+2023-02-01,ITEM001,Brake Pad,Rasipuram,64
+2023-03-01,ITEM001,Brake Pad,Rasipuram,72
+2023-04-01,ITEM001,Brake Pad,Rasipuram,77
+2023-05-01,ITEM001,Brake Pad,Rasipuram,77
+2023-06-01,ITEM001,Brake Pad,Rasipuram,72
+2023-07-01,ITEM001,Brake Pad,Rasipuram,59
+2023-08-01,ITEM001,Brake Pad,Rasipuram,52
+2023-09-01,ITEM001,Brake Pad,Rasipuram,54
+2023-10-01,ITEM001,Brake Pad,Rasipuram,47
+2023-11-01,ITEM001,Brake Pad,Rasipuram,45
+2023-12-01,ITEM001,Brake Pad,Rasipuram,50
+2024-01-01,ITEM001,Brake Pad,Rasipuram,58
+2024-02-01,ITEM001,Brake Pad,Rasipuram,73
+2024-03-01,ITEM001,Brake Pad,Rasipuram,76
+2024-04-01,ITEM001,Brake Pad,Rasipuram,82
+2024-05-01,ITEM001,Brake Pad,Rasipuram,73
+2024-06-01,ITEM001,Brake Pad,Rasipuram,72
+2024-07-01,ITEM001,Brake Pad,Rasipuram,68
+2024-08-01,ITEM001,Brake Pad,Rasipuram,56
+2024-09-01,ITEM001,Brake Pad,Rasipuram,55
+2024-10-01,ITEM001,Brake Pad,Rasipuram,48
+2024-11-01,ITEM001,Brake Pad,Rasipuram,51
+2024-12-01,ITEM001,Brake Pad,Rasipuram,57
+2025-01-01,ITEM001,Brake Pad,Rasipuram,59
+2025-02-01,ITEM001,Brake Pad,Rasipuram,77
+2025-03-01,ITEM001,Brake Pad,Rasipuram,76
+2025-04-01,ITEM001,Brake Pad,Rasipuram,82
+2025-05-01,ITEM001,Brake Pad,Rasipuram,83
+2025-06-01,ITEM001,Brake Pad,Rasipuram,78
+2025-07-01,ITEM001,Brake Pad,Rasipuram,72
+2025-08-01,ITEM001,Brake Pad,Rasipuram,60
+2025-09-01,ITEM001,Brake Pad,Rasipuram,53
+2025-10-01,ITEM001,Brake Pad,Rasipuram,53
+2025-11-01,ITEM001,Brake Pad,Rasipuram,47
+2025-12-01,ITEM001,Brake Pad,Rasipuram,54
+2022-01-01,ITEM002,Engine Oil,Bangalore,92
+2022-02-01,ITEM002,Engine Oil,Bangalore,106
+2022-03-01,ITEM002,Engine Oil,Bangalore,130
+2022-04-01,ITEM002,Engine Oil,Bangalore,119
+2022-05-01,ITEM002,Engine Oil,Bangalore,122
+2022-06-01,ITEM002,Engine Oil,Bangalore,133
+2022-07-01,ITEM002,Engine Oil,Bangalore,104
+2022-08-01,ITEM002,Engine Oil,Bangalore,103
+2022-09-01,ITEM002,Engine Oil,Bangalore,81
+2022-10-01,ITEM002,Engine Oil,Bangalore,84
+2022-11-01,ITEM002,Engine Oil,Bangalore,81
+2022-12-01,ITEM002,Engine Oil,Bangalore,95
+2023-01-01,ITEM002,Engine Oil,Bangalore,119
+2023-02-01,ITEM002,Engine Oil,Bangalore,104
+2023-03-01,ITEM002,Engine Oil,Bangalore,138
+2023-04-01,ITEM002,Engine Oil,Bangalore,140
+2023-05-01,ITEM002,Engine Oil,Bangalore,127
+2023-06-01,ITEM002,Engine Oil,Bangalore,109
+2023-07-01,ITEM002,Engine Oil,Bangalore,115
+2023-08-01,ITEM002,Engine Oil,Bangalore,97
+2023-09-01,ITEM002,Engine Oil,Bangalore,95
+2023-10-01,ITEM002,Engine Oil,Bangalore,90
+2023-11-01,ITEM002,Engine Oil,Bangalore,107
+2023-12-01,ITEM002,Engine Oil,Bangalore,101
+2024-01-01,ITEM002,Engine Oil,Bangalore,106
+2024-02-01,ITEM002,Engine Oil,Bangalore,132
+2024-03-01,ITEM002,Engine Oil,Bangalore,143
+2024-04-01,ITEM002,Engine Oil,Bangalore,162
+2024-05-01,ITEM002,Engine Oil,Bangalore,152
+2024-06-01,ITEM002,Engine Oil,Bangalore,137
+2024-07-01,ITEM002,Engine Oil,Bangalore,136
+2024-08-01,ITEM002,Engine Oil,Bangalore,96
+2024-09-01,ITEM002,Engine Oil,Bangalore,92
+2024-10-01,ITEM002,Engine Oil,Bangalore,87
+2024-11-01,ITEM002,Engine Oil,Bangalore,95
+2024-12-01,ITEM002,Engine Oil,Bangalore,96
+2025-01-01,ITEM002,Engine Oil,Bangalore,130
+2025-02-01,ITEM002,Engine Oil,Bangalore,135
+2025-03-01,ITEM002,Engine Oil,Bangalore,128
+2025-04-01,ITEM002,Engine Oil,Bangalore,138
+2025-05-01,ITEM002,Engine Oil,Bangalore,153
+2025-06-01,ITEM002,Engine Oil,Bangalore,150
+2025-07-01,ITEM002,Engine Oil,Bangalore,149
+2025-08-01,ITEM002,Engine Oil,Bangalore,142
+2025-09-01,ITEM002,Engine Oil,Bangalore,107
+2025-10-01,ITEM002,Engine Oil,Bangalore,91
+2025-11-01,ITEM002,Engine Oil,Bangalore,84
+2025-12-01,ITEM002,Engine Oil,Bangalore,118
+2022-01-01,ITEM002,Engine Oil,Rasipuram,65
+2022-02-01,ITEM002,Engine Oil,Rasipuram,75
+2022-03-01,ITEM002,Engine Oil,Rasipuram,79
+2022-04-01,ITEM002,Engine Oil,Rasipuram,85
+2022-05-01,ITEM002,Engine Oil,Rasipuram,93
+2022-06-01,ITEM002,Engine Oil,Rasipuram,80
+2022-07-01,ITEM002,Engine Oil,Rasipuram,71
+2022-08-01,ITEM002,Engine Oil,Rasipuram,58
+2022-09-01,ITEM002,Engine Oil,Rasipuram,50
+2022-10-01,ITEM002,Engine Oil,Rasipuram,54
+2022-11-01,ITEM002,Engine Oil,Rasipuram,59
+2022-12-01,ITEM002,Engine Oil,Rasipuram,76
+2023-01-01,ITEM002,Engine Oil,Rasipuram,75
+2023-02-01,ITEM002,Engine Oil,Rasipuram,90
+2023-03-01,ITEM002,Engine Oil,Rasipuram,85
+2023-04-01,ITEM002,Engine Oil,Rasipuram,82
+2023-05-01,ITEM002,Engine Oil,Rasipuram,82
+2023-06-01,ITEM002,Engine Oil,Rasipuram,78
+2023-07-01,ITEM002,Engine Oil,Rasipuram,90
+2023-08-01,ITEM002,Engine Oil,Rasipuram,63
+2023-09-01,ITEM002,Engine Oil,Rasipuram,67
+2023-10-01,ITEM002,Engine Oil,Rasipuram,55
+2023-11-01,ITEM002,Engine Oil,Rasipuram,68
+2023-12-01,ITEM002,Engine Oil,Rasipuram,71
+2024-01-01,ITEM002,Engine Oil,Rasipuram,77
+2024-02-01,ITEM002,Engine Oil,Rasipuram,87
+2024-03-01,ITEM002,Engine Oil,Rasipuram,88
+2024-04-01,ITEM002,Engine Oil,Rasipuram,100
+2024-05-01,ITEM002,Engine Oil,Rasipuram,91
+2024-06-01,ITEM002,Engine Oil,Rasipuram,79
+2024-07-01,ITEM002,Engine Oil,Rasipuram,71
+2024-08-01,ITEM002,Engine Oil,Rasipuram,73
+2024-09-01,ITEM002,Engine Oil,Rasipuram,75
+2024-10-01,ITEM002,Engine Oil,Rasipuram,64
+2024-11-01,ITEM002,Engine Oil,Rasipuram,65
+2024-12-01,ITEM002,Engine Oil,Rasipuram,75
+2025-01-01,ITEM002,Engine Oil,Rasipuram,92
+2025-02-01,ITEM002,Engine Oil,Rasipuram,93
+2025-03-01,ITEM002,Engine Oil,Rasipuram,95
+2025-04-01,ITEM002,Engine Oil,Rasipuram,112
+2025-05-01,ITEM002,Engine Oil,Rasipuram,103
+2025-06-01,ITEM002,Engine Oil,Rasipuram,106
+2025-07-01,ITEM002,Engine Oil,Rasipuram,86
+2025-08-01,ITEM002,Engine Oil,Rasipuram,67
+2025-09-01,ITEM002,Engine Oil,Rasipuram,60
+2025-10-01,ITEM002,Engine Oil,Rasipuram,76
+2025-11-01,ITEM002,Engine Oil,Rasipuram,80
+2025-12-01,ITEM002,Engine Oil,Rasipuram,75
+2022-01-01,ITEM003,Air Filter,Bangalore,120
+2022-02-01,ITEM003,Air Filter,Bangalore,158
+2022-03-01,ITEM003,Air Filter,Bangalore,135
+2022-04-01,ITEM003,Air Filter,Bangalore,142
+2022-05-01,ITEM003,Air Filter,Bangalore,160
+2022-06-01,ITEM003,Air Filter,Bangalore,137
+2022-07-01,ITEM003,Air Filter,Bangalore,128
+2022-08-01,ITEM003,Air Filter,Bangalore,113
+2022-09-01,ITEM003,Air Filter,Bangalore,108
+2022-10-01,ITEM003,Air Filter,Bangalore,115
+2022-11-01,ITEM003,Air Filter,Bangalore,107
+2022-12-01,ITEM003,Air Filter,Bangalore,124
+2023-01-01,ITEM003,Air Filter,Bangalore,108
+2023-02-01,ITEM003,Air Filter,Bangalore,147
+2023-03-01,ITEM003,Air Filter,Bangalore,147
+2023-04-01,ITEM003,Air Filter,Bangalore,146
+2023-05-01,ITEM003,Air Filter,Bangalore,148
+2023-06-01,ITEM003,Air Filter,Bangalore,146
+2023-07-01,ITEM003,Air Filter,Bangalore,147
+2023-08-01,ITEM003,Air Filter,Bangalore,107
+2023-09-01,ITEM003,Air Filter,Bangalore,111
+2023-10-01,ITEM003,Air Filter,Bangalore,103
+2023-11-01,ITEM003,Air Filter,Bangalore,109
+2023-12-01,ITEM003,Air Filter,Bangalore,135
+2024-01-01,ITEM003,Air Filter,Bangalore,147
+2024-02-01,ITEM003,Air Filter,Bangalore,175
+2024-03-01,ITEM003,Air Filter,Bangalore,166
+2024-04-01,ITEM003,Air Filter,Bangalore,162
+2024-05-01,ITEM003,Air Filter,Bangalore,166
+2024-06-01,ITEM003,Air Filter,Bangalore,162
+2024-07-01,ITEM003,Air Filter,Bangalore,146
+2024-08-01,ITEM003,Air Filter,Bangalore,116
+2024-09-01,ITEM003,Air Filter,Bangalore,118
+2024-10-01,ITEM003,Air Filter,Bangalore,116
+2024-11-01,ITEM003,Air Filter,Bangalore,145
+2024-12-01,ITEM003,Air Filter,Bangalore,153
+2025-01-01,ITEM003,Air Filter,Bangalore,136
+2025-02-01,ITEM003,Air Filter,Bangalore,160
+2025-03-01,ITEM003,Air Filter,Bangalore,154
+2025-04-01,ITEM003,Air Filter,Bangalore,172
+2025-05-01,ITEM003,Air Filter,Bangalore,183
+2025-06-01,ITEM003,Air Filter,Bangalore,185
+2025-07-01,ITEM003,Air Filter,Bangalore,141
+2025-08-01,ITEM003,Air Filter,Bangalore,127
+2025-09-01,ITEM003,Air Filter,Bangalore,99
+2025-10-01,ITEM003,Air Filter,Bangalore,118
+2025-11-01,ITEM003,Air Filter,Bangalore,112
+2025-12-01,ITEM003,Air Filter,Bangalore,131
+2022-01-01,ITEM003,Air Filter,Rasipuram,77
+2022-02-01,ITEM003,Air Filter,Rasipuram,92
+2022-03-01,ITEM003,Air Filter,Rasipuram,84
+2022-04-01,ITEM003,Air Filter,Rasipuram,89
+2022-05-01,ITEM003,Air Filter,Rasipuram,120
+2022-06-01,ITEM003,Air Filter,Rasipuram,84
+2022-07-01,ITEM003,Air Filter,Rasipuram,77
+2022-08-01,ITEM003,Air Filter,Rasipuram,89
+2022-09-01,ITEM003,Air Filter,Rasipuram,88
+2022-10-01,ITEM003,Air Filter,Rasipuram,61
+2022-11-01,ITEM003,Air Filter,Rasipuram,68
+2022-12-01,ITEM003,Air Filter,Rasipuram,81
+2023-01-01,ITEM003,Air Filter,Rasipuram,102
+2023-02-01,ITEM003,Air Filter,Rasipuram,90
+2023-03-01,ITEM003,Air Filter,Rasipuram,104
+2023-04-01,ITEM003,Air Filter,Rasipuram,117
+2023-05-01,ITEM003,Air Filter,Rasipuram,111
+2023-06-01,ITEM003,Air Filter,Rasipuram,97
+2023-07-01,ITEM003,Air Filter,Rasipuram,90
+2023-08-01,ITEM003,Air Filter,Rasipuram,71
+2023-09-01,ITEM003,Air Filter,Rasipuram,72
+2023-10-01,ITEM003,Air Filter,Rasipuram,70
+2023-11-01,ITEM003,Air Filter,Rasipuram,76
+2023-12-01,ITEM003,Air Filter,Rasipuram,78
+2024-01-01,ITEM003,Air Filter,Rasipuram,97
+2024-02-01,ITEM003,Air Filter,Rasipuram,113
+2024-03-01,ITEM003,Air Filter,Rasipuram,113
+2024-04-01,ITEM003,Air Filter,Rasipuram,119
+2024-05-01,ITEM003,Air Filter,Rasipuram,113
+2024-06-01,ITEM003,Air Filter,Rasipuram,106
+2024-07-01,ITEM003,Air Filter,Rasipuram,89
+2024-08-01,ITEM003,Air Filter,Rasipuram,88
+2024-09-01,ITEM003,Air Filter,Rasipuram,77
+2024-10-01,ITEM003,Air Filter,Rasipuram,90
+2024-11-01,ITEM003,Air Filter,Rasipuram,90
+2024-12-01,ITEM003,Air Filter,Rasipuram,90
+2025-01-01,ITEM003,Air Filter,Rasipuram,91
+2025-02-01,ITEM003,Air Filter,Rasipuram,98
+2025-03-01,ITEM003,Air Filter,Rasipuram,131
+2025-04-01,ITEM003,Air Filter,Rasipuram,124
+2025-05-01,ITEM003,Air Filter,Rasipuram,124
+2025-06-01,ITEM003,Air Filter,Rasipuram,94
+2025-07-01,ITEM003,Air Filter,Rasipuram,109
+2025-08-01,ITEM003,Air Filter,Rasipuram,94
+2025-09-01,ITEM003,Air Filter,Rasipuram,74
+2025-10-01,ITEM003,Air Filter,Rasipuram,76
+2025-11-01,ITEM003,Air Filter,Rasipuram,85
+2025-12-01,ITEM003,Air Filter,Rasipuram,92
+2022-01-01,ITEM004,Spark Plug,Bangalore,141
+2022-02-01,ITEM004,Spark Plug,Bangalore,160
+2022-03-01,ITEM004,Spark Plug,Bangalore,171
+2022-04-01,ITEM004,Spark Plug,Bangalore,182
+2022-05-01,ITEM004,Spark Plug,Bangalore,200
+2022-06-01,ITEM004,Spark Plug,Bangalore,127
+2022-07-01,ITEM004,Spark Plug,Bangalore,146
+2022-08-01,ITEM004,Spark Plug,Bangalore,136
+2022-09-01,ITEM004,Spark Plug,Bangalore,125
+2022-10-01,ITEM004,Spark Plug,Bangalore,114
+2022-11-01,ITEM004,Spark Plug,Bangalore,104
+2022-12-01,ITEM004,Spark Plug,Bangalore,140
+2023-01-01,ITEM004,Spark Plug,Bangalore,178
+2023-02-01,ITEM004,Spark Plug,Bangalore,148
+2023-03-01,ITEM004,Spark Plug,Bangalore,199
+2023-04-01,ITEM004,Spark Plug,Bangalore,185
+2023-05-01,ITEM004,Spark Plug,Bangalore,186
+2023-06-01,ITEM004,Spark Plug,Bangalore,158
+2023-07-01,ITEM004,Spark Plug,Bangalore,154
+2023-08-01,ITEM004,Spark Plug,Bangalore,158
+2023-09-01,ITEM004,Spark Plug,Bangalore,136
+2023-10-01,ITEM004,Spark Plug,Bangalore,145
+2023-11-01,ITEM004,Spark Plug,Bangalore,144
+2023-12-01,ITEM004,Spark Plug,Bangalore,150
+2024-01-01,ITEM004,Spark Plug,Bangalore,188
+2024-02-01,ITEM004,Spark Plug,Bangalore,188
+2024-03-01,ITEM004,Spark Plug,Bangalore,210
+2024-04-01,ITEM004,Spark Plug,Bangalore,196
+2024-05-01,ITEM004,Spark Plug,Bangalore,198
+2024-06-01,ITEM004,Spark Plug,Bangalore,173
+2024-07-01,ITEM004,Spark Plug,Bangalore,182
+2024-08-01,ITEM004,Spark Plug,Bangalore,133
+2024-09-01,ITEM004,Spark Plug,Bangalore,146
+2024-10-01,ITEM004,Spark Plug,Bangalore,130
+2024-11-01,ITEM004,Spark Plug,Bangalore,152
+2024-12-01,ITEM004,Spark Plug,Bangalore,162
+2025-01-01,ITEM004,Spark Plug,Bangalore,199
+2025-02-01,ITEM004,Spark Plug,Bangalore,204
+2025-03-01,ITEM004,Spark Plug,Bangalore,177
+2025-04-01,ITEM004,Spark Plug,Bangalore,210
+2025-05-01,ITEM004,Spark Plug,Bangalore,186
+2025-06-01,ITEM004,Spark Plug,Bangalore,185
+2025-07-01,ITEM004,Spark Plug,Bangalore,200
+2025-08-01,ITEM004,Spark Plug,Bangalore,166
+2025-09-01,ITEM004,Spark Plug,Bangalore,134
+2025-10-01,ITEM004,Spark Plug,Bangalore,126
+2025-11-01,ITEM004,Spark Plug,Bangalore,145
+2025-12-01,ITEM004,Spark Plug,Bangalore,142
+2022-01-01,ITEM004,Spark Plug,Rasipuram,91
+2022-02-01,ITEM004,Spark Plug,Rasipuram,111
+2022-03-01,ITEM004,Spark Plug,Rasipuram,128
+2022-04-01,ITEM004,Spark Plug,Rasipuram,126
+2022-05-01,ITEM004,Spark Plug,Rasipuram,93
+2022-06-01,ITEM004,Spark Plug,Rasipuram,113
+2022-07-01,ITEM004,Spark Plug,Rasipuram,100
+2022-08-01,ITEM004,Spark Plug,Rasipuram,92
+2022-09-01,ITEM004,Spark Plug,Rasipuram,93
+2022-10-01,ITEM004,Spark Plug,Rasipuram,64
+2022-11-01,ITEM004,Spark Plug,Rasipuram,78
+2022-12-01,ITEM004,Spark Plug,Rasipuram,96
+2023-01-01,ITEM004,Spark Plug,Rasipuram,88
+2023-02-01,ITEM004,Spark Plug,Rasipuram,130
+2023-03-01,ITEM004,Spark Plug,Rasipuram,127
+2023-04-01,ITEM004,Spark Plug,Rasipuram,137
+2023-05-01,ITEM004,Spark Plug,Rasipuram,118
+2023-06-01,ITEM004,Spark Plug,Rasipuram,125
+2023-07-01,ITEM004,Spark Plug,Rasipuram,116
+2023-08-01,ITEM004,Spark Plug,Rasipuram,96
+2023-09-01,ITEM004,Spark Plug,Rasipuram,88
+2023-10-01,ITEM004,Spark Plug,Rasipuram,85
+2023-11-01,ITEM004,Spark Plug,Rasipuram,80
+2023-12-01,ITEM004,Spark Plug,Rasipuram,95
+2024-01-01,ITEM004,Spark Plug,Rasipuram,107
+2024-02-01,ITEM004,Spark Plug,Rasipuram,125
+2024-03-01,ITEM004,Spark Plug,Rasipuram,142
+2024-04-01,ITEM004,Spark Plug,Rasipuram,121
+2024-05-01,ITEM004,Spark Plug,Rasipuram,130
+2024-06-01,ITEM004,Spark Plug,Rasipuram,139
+2024-07-01,ITEM004,Spark Plug,Rasipuram,104
+2024-08-01,ITEM004,Spark Plug,Rasipuram,92
+2024-09-01,ITEM004,Spark Plug,Rasipuram,93
+2024-10-01,ITEM004,Spark Plug,Rasipuram,95
+2024-11-01,ITEM004,Spark Plug,Rasipuram,92
+2024-12-01,ITEM004,Spark Plug,Rasipuram,113
+2025-01-01,ITEM004,Spark Plug,Rasipuram,123
+2025-02-01,ITEM004,Spark Plug,Rasipuram,137
+2025-03-01,ITEM004,Spark Plug,Rasipuram,144
+2025-04-01,ITEM004,Spark Plug,Rasipuram,171
+2025-05-01,ITEM004,Spark Plug,Rasipuram,136
+2025-06-01,ITEM004,Spark Plug,Rasipuram,106
+2025-07-01,ITEM004,Spark Plug,Rasipuram,134
+2025-08-01,ITEM004,Spark Plug,Rasipuram,100
+2025-09-01,ITEM004,Spark Plug,Rasipuram,97
+2025-10-01,ITEM004,Spark Plug,Rasipuram,103
+2025-11-01,ITEM004,Spark Plug,Rasipuram,82
+2025-12-01,ITEM004,Spark Plug,Rasipuram,94
+2022-01-01,ITEM005,Clutch Cable,Bangalore,142
+2022-02-01,ITEM005,Clutch Cable,Bangalore,172
+2022-03-01,ITEM005,Clutch Cable,Bangalore,207
+2022-04-01,ITEM005,Clutch Cable,Bangalore,215
+2022-05-01,ITEM005,Clutch Cable,Bangalore,206
+2022-06-01,ITEM005,Clutch Cable,Bangalore,164
+2022-07-01,ITEM005,Clutch Cable,Bangalore,135
+2022-08-01,ITEM005,Clutch Cable,Bangalore,153
+2022-09-01,ITEM005,Clutch Cable,Bangalore,133
+2022-10-01,ITEM005,Clutch Cable,Bangalore,141
+2022-11-01,ITEM005,Clutch Cable,Bangalore,150
+2022-12-01,ITEM005,Clutch Cable,Bangalore,157
+2023-01-01,ITEM005,Clutch Cable,Bangalore,188
+2023-02-01,ITEM005,Clutch Cable,Bangalore,200
+2023-03-01,ITEM005,Clutch Cable,Bangalore,221
+2023-04-01,ITEM005,Clutch Cable,Bangalore,203
+2023-05-01,ITEM005,Clutch Cable,Bangalore,209
+2023-06-01,ITEM005,Clutch Cable,Bangalore,203
+2023-07-01,ITEM005,Clutch Cable,Bangalore,194
+2023-08-01,ITEM005,Clutch Cable,Bangalore,156
+2023-09-01,ITEM005,Clutch Cable,Bangalore,154
+2023-10-01,ITEM005,Clutch Cable,Bangalore,139
+2023-11-01,ITEM005,Clutch Cable,Bangalore,147
+2023-12-01,ITEM005,Clutch Cable,Bangalore,177
+2024-01-01,ITEM005,Clutch Cable,Bangalore,152
+2024-02-01,ITEM005,Clutch Cable,Bangalore,183
+2024-03-01,ITEM005,Clutch Cable,Bangalore,193
+2024-04-01,ITEM005,Clutch Cable,Bangalore,181
+2024-05-01,ITEM005,Clutch Cable,Bangalore,211
+2024-06-01,ITEM005,Clutch Cable,Bangalore,225
+2024-07-01,ITEM005,Clutch Cable,Bangalore,186
+2024-08-01,ITEM005,Clutch Cable,Bangalore,173
+2024-09-01,ITEM005,Clutch Cable,Bangalore,171
+2024-10-01,ITEM005,Clutch Cable,Bangalore,168
+2024-11-01,ITEM005,Clutch Cable,Bangalore,156
+2024-12-01,ITEM005,Clutch Cable,Bangalore,194
+2025-01-01,ITEM005,Clutch Cable,Bangalore,197
+2025-02-01,ITEM005,Clutch Cable,Bangalore,201
+2025-03-01,ITEM005,Clutch Cable,Bangalore,222
+2025-04-01,ITEM005,Clutch Cable,Bangalore,209
+2025-05-01,ITEM005,Clutch Cable,Bangalore,218
+2025-06-01,ITEM005,Clutch Cable,Bangalore,214
+2025-07-01,ITEM005,Clutch Cable,Bangalore,215
+2025-08-01,ITEM005,Clutch Cable,Bangalore,207
+2025-09-01,ITEM005,Clutch Cable,Bangalore,143
+2025-10-01,ITEM005,Clutch Cable,Bangalore,164
+2025-11-01,ITEM005,Clutch Cable,Bangalore,149
+2025-12-01,ITEM005,Clutch Cable,Bangalore,190
+2022-01-01,ITEM005,Clutch Cable,Rasipuram,109
+2022-02-01,ITEM005,Clutch Cable,Rasipuram,103
+2022-03-01,ITEM005,Clutch Cable,Rasipuram,144
+2022-04-01,ITEM005,Clutch Cable,Rasipuram,129
+2022-05-01,ITEM005,Clutch Cable,Rasipuram,128
+2022-06-01,ITEM005,Clutch Cable,Rasipuram,114
+2022-07-01,ITEM005,Clutch Cable,Rasipuram,107
+2022-08-01,ITEM005,Clutch Cable,Rasipuram,106
+2022-09-01,ITEM005,Clutch Cable,Rasipuram,91
+2022-10-01,ITEM005,Clutch Cable,Rasipuram,93
+2022-11-01,ITEM005,Clutch Cable,Rasipuram,97
+2022-12-01,ITEM005,Clutch Cable,Rasipuram,116
+2023-01-01,ITEM005,Clutch Cable,Rasipuram,113
+2023-02-01,ITEM005,Clutch Cable,Rasipuram,113
+2023-03-01,ITEM005,Clutch Cable,Rasipuram,154
+2023-04-01,ITEM005,Clutch Cable,Rasipuram,140
+2023-05-01,ITEM005,Clutch Cable,Rasipuram,156
+2023-06-01,ITEM005,Clutch Cable,Rasipuram,138
+2023-07-01,ITEM005,Clutch Cable,Rasipuram,119
+2023-08-01,ITEM005,Clutch Cable,Rasipuram,111
+2023-09-01,ITEM005,Clutch Cable,Rasipuram,116
+2023-10-01,ITEM005,Clutch Cable,Rasipuram,113
+2023-11-01,ITEM005,Clutch Cable,Rasipuram,100
+2023-12-01,ITEM005,Clutch Cable,Rasipuram,111
+2024-01-01,ITEM005,Clutch Cable,Rasipuram,136
+2024-02-01,ITEM005,Clutch Cable,Rasipuram,127
+2024-03-01,ITEM005,Clutch Cable,Rasipuram,153
+2024-04-01,ITEM005,Clutch Cable,Rasipuram,153
+2024-05-01,ITEM005,Clutch Cable,Rasipuram,154
+2024-06-01,ITEM005,Clutch Cable,Rasipuram,130
+2024-07-01,ITEM005,Clutch Cable,Rasipuram,109
+2024-08-01,ITEM005,Clutch Cable,Rasipuram,92
+2024-09-01,ITEM005,Clutch Cable,Rasipuram,93
+2024-10-01,ITEM005,Clutch Cable,Rasipuram,96
+2024-11-01,ITEM005,Clutch Cable,Rasipuram,102
+2024-12-01,ITEM005,Clutch Cable,Rasipuram,136
+2025-01-01,ITEM005,Clutch Cable,Rasipuram,143
+2025-02-01,ITEM005,Clutch Cable,Rasipuram,133
+2025-03-01,ITEM005,Clutch Cable,Rasipuram,161
+2025-04-01,ITEM005,Clutch Cable,Rasipuram,155
+2025-05-01,ITEM005,Clutch Cable,Rasipuram,154
+2025-06-01,ITEM005,Clutch Cable,Rasipuram,150
+2025-07-01,ITEM005,Clutch Cable,Rasipuram,141
+2025-08-01,ITEM005,Clutch Cable,Rasipuram,116
+2025-09-01,ITEM005,Clutch Cable,Rasipuram,119
+2025-10-01,ITEM005,Clutch Cable,Rasipuram,95
+2025-11-01,ITEM005,Clutch Cable,Rasipuram,110
+2025-12-01,ITEM005,Clutch Cable,Rasipuram,150
+2022-01-01,ITEM006,Chain Kit,Bangalore,190
+2022-02-01,ITEM006,Chain Kit,Bangalore,234
+2022-03-01,ITEM006,Chain Kit,Bangalore,225
+2022-04-01,ITEM006,Chain Kit,Bangalore,242
+2022-05-01,ITEM006,Chain Kit,Bangalore,225
+2022-06-01,ITEM006,Chain Kit,Bangalore,208
+2022-07-01,ITEM006,Chain Kit,Bangalore,178
+2022-08-01,ITEM006,Chain Kit,Bangalore,178
+2022-09-01,ITEM006,Chain Kit,Bangalore,145
+2022-10-01,ITEM006,Chain Kit,Bangalore,161
+2022-11-01,ITEM006,Chain Kit,Bangalore,174
+2022-12-01,ITEM006,Chain Kit,Bangalore,180
+2023-01-01,ITEM006,Chain Kit,Bangalore,192
+2023-02-01,ITEM006,Chain Kit,Bangalore,229
+2023-03-01,ITEM006,Chain Kit,Bangalore,230
+2023-04-01,ITEM006,Chain Kit,Bangalore,264
+2023-05-01,ITEM006,Chain Kit,Bangalore,200
+2023-06-01,ITEM006,Chain Kit,Bangalore,217
+2023-07-01,ITEM006,Chain Kit,Bangalore,166
+2023-08-01,ITEM006,Chain Kit,Bangalore,157
+2023-09-01,ITEM006,Chain Kit,Bangalore,186
+2023-10-01,ITEM006,Chain Kit,Bangalore,173
+2023-11-01,ITEM006,Chain Kit,Bangalore,156
+2023-12-01,ITEM006,Chain Kit,Bangalore,160
+2024-01-01,ITEM006,Chain Kit,Bangalore,153
+2024-02-01,ITEM006,Chain Kit,Bangalore,221
+2024-03-01,ITEM006,Chain Kit,Bangalore,305
+2024-04-01,ITEM006,Chain Kit,Bangalore,268
+2024-05-01,ITEM006,Chain Kit,Bangalore,240
+2024-06-01,ITEM006,Chain Kit,Bangalore,246
+2024-07-01,ITEM006,Chain Kit,Bangalore,184
+2024-08-01,ITEM006,Chain Kit,Bangalore,186
+2024-09-01,ITEM006,Chain Kit,Bangalore,176
+2024-10-01,ITEM006,Chain Kit,Bangalore,168
+2024-11-01,ITEM006,Chain Kit,Bangalore,189
+2024-12-01,ITEM006,Chain Kit,Bangalore,201
+2025-01-01,ITEM006,Chain Kit,Bangalore,233
+2025-02-01,ITEM006,Chain Kit,Bangalore,229
+2025-03-01,ITEM006,Chain Kit,Bangalore,285
+2025-04-01,ITEM006,Chain Kit,Bangalore,311
+2025-05-01,ITEM006,Chain Kit,Bangalore,243
+2025-06-01,ITEM006,Chain Kit,Bangalore,229
+2025-07-01,ITEM006,Chain Kit,Bangalore,252
+2025-08-01,ITEM006,Chain Kit,Bangalore,198
+2025-09-01,ITEM006,Chain Kit,Bangalore,207
+2025-10-01,ITEM006,Chain Kit,Bangalore,171
+2025-11-01,ITEM006,Chain Kit,Bangalore,209
+2025-12-01,ITEM006,Chain Kit,Bangalore,207
+2022-01-01,ITEM006,Chain Kit,Rasipuram,127
+2022-02-01,ITEM006,Chain Kit,Rasipuram,158
+2022-03-01,ITEM006,Chain Kit,Rasipuram,144
+2022-04-01,ITEM006,Chain Kit,Rasipuram,141
+2022-05-01,ITEM006,Chain Kit,Rasipuram,144
+2022-06-01,ITEM006,Chain Kit,Rasipuram,147
+2022-07-01,ITEM006,Chain Kit,Rasipuram,110
+2022-08-01,ITEM006,Chain Kit,Rasipuram,121
+2022-09-01,ITEM006,Chain Kit,Rasipuram,99
+2022-10-01,ITEM006,Chain Kit,Rasipuram,112
+2022-11-01,ITEM006,Chain Kit,Rasipuram,83
+2022-12-01,ITEM006,Chain Kit,Rasipuram,108
+2023-01-01,ITEM006,Chain Kit,Rasipuram,111
+2023-02-01,ITEM006,Chain Kit,Rasipuram,136
+2023-03-01,ITEM006,Chain Kit,Rasipuram,161
+2023-04-01,ITEM006,Chain Kit,Rasipuram,160
+2023-05-01,ITEM006,Chain Kit,Rasipuram,156
+2023-06-01,ITEM006,Chain Kit,Rasipuram,147
+2023-07-01,ITEM006,Chain Kit,Rasipuram,138
+2023-08-01,ITEM006,Chain Kit,Rasipuram,110
+2023-09-01,ITEM006,Chain Kit,Rasipuram,117
+2023-10-01,ITEM006,Chain Kit,Rasipuram,113
+2023-11-01,ITEM006,Chain Kit,Rasipuram,115
+2023-12-01,ITEM006,Chain Kit,Rasipuram,129
+2024-01-01,ITEM006,Chain Kit,Rasipuram,143
+2024-02-01,ITEM006,Chain Kit,Rasipuram,183
+2024-03-01,ITEM006,Chain Kit,Rasipuram,166
+2024-04-01,ITEM006,Chain Kit,Rasipuram,167
+2024-05-01,ITEM006,Chain Kit,Rasipuram,157
+2024-06-01,ITEM006,Chain Kit,Rasipuram,143
+2024-07-01,ITEM006,Chain Kit,Rasipuram,127
+2024-08-01,ITEM006,Chain Kit,Rasipuram,117
+2024-09-01,ITEM006,Chain Kit,Rasipuram,116
+2024-10-01,ITEM006,Chain Kit,Rasipuram,116
+2024-11-01,ITEM006,Chain Kit,Rasipuram,118
+2024-12-01,ITEM006,Chain Kit,Rasipuram,121
+2025-01-01,ITEM006,Chain Kit,Rasipuram,158
+2025-02-01,ITEM006,Chain Kit,Rasipuram,174
+2025-03-01,ITEM006,Chain Kit,Rasipuram,173
+2025-04-01,ITEM006,Chain Kit,Rasipuram,170
+2025-05-01,ITEM006,Chain Kit,Rasipuram,186
+2025-06-01,ITEM006,Chain Kit,Rasipuram,169
+2025-07-01,ITEM006,Chain Kit,Rasipuram,130
+2025-08-01,ITEM006,Chain Kit,Rasipuram,133
+2025-09-01,ITEM006,Chain Kit,Rasipuram,125
+2025-10-01,ITEM006,Chain Kit,Rasipuram,109
+2025-11-01,ITEM006,Chain Kit,Rasipuram,126
+2025-12-01,ITEM006,Chain Kit,Rasipuram,118
+2022-01-01,ITEM007,Battery,Bangalore,231
+2022-02-01,ITEM007,Battery,Bangalore,256
+2022-03-01,ITEM007,Battery,Bangalore,243
+2022-04-01,ITEM007,Battery,Bangalore,264
+2022-05-01,ITEM007,Battery,Bangalore,196
+2022-06-01,ITEM007,Battery,Bangalore,210
+2022-07-01,ITEM007,Battery,Bangalore,207
+2022-08-01,ITEM007,Battery,Bangalore,172
+2022-09-01,ITEM007,Battery,Bangalore,185
+2022-10-01,ITEM007,Battery,Bangalore,198
+2022-11-01,ITEM007,Battery,Bangalore,157
+2022-12-01,ITEM007,Battery,Bangalore,179
+2023-01-01,ITEM007,Battery,Bangalore,223
+2023-02-01,ITEM007,Battery,Bangalore,279
+2023-03-01,ITEM007,Battery,Bangalore,234
+2023-04-01,ITEM007,Battery,Bangalore,277
+2023-05-01,ITEM007,Battery,Bangalore,309
+2023-06-01,ITEM007,Battery,Bangalore,212
+2023-07-01,ITEM007,Battery,Bangalore,199
+2023-08-01,ITEM007,Battery,Bangalore,193
+2023-09-01,ITEM007,Battery,Bangalore,175
+2023-10-01,ITEM007,Battery,Bangalore,191
+2023-11-01,ITEM007,Battery,Bangalore,189
+2023-12-01,ITEM007,Battery,Bangalore,172
+2024-01-01,ITEM007,Battery,Bangalore,242
+2024-02-01,ITEM007,Battery,Bangalore,244
+2024-03-01,ITEM007,Battery,Bangalore,310
+2024-04-01,ITEM007,Battery,Bangalore,270
+2024-05-01,ITEM007,Battery,Bangalore,264
+2024-06-01,ITEM007,Battery,Bangalore,275
+2024-07-01,ITEM007,Battery,Bangalore,254
+2024-08-01,ITEM007,Battery,Bangalore,221
+2024-09-01,ITEM007,Battery,Bangalore,164
+2024-10-01,ITEM007,Battery,Bangalore,197
+2024-11-01,ITEM007,Battery,Bangalore,177
+2024-12-01,ITEM007,Battery,Bangalore,220
+2025-01-01,ITEM007,Battery,Bangalore,212
+2025-02-01,ITEM007,Battery,Bangalore,282
+2025-03-01,ITEM007,Battery,Bangalore,271
+2025-04-01,ITEM007,Battery,Bangalore,266
+2025-05-01,ITEM007,Battery,Bangalore,314
+2025-06-01,ITEM007,Battery,Bangalore,282
+2025-07-01,ITEM007,Battery,Bangalore,236
+2025-08-01,ITEM007,Battery,Bangalore,252
+2025-09-01,ITEM007,Battery,Bangalore,196
+2025-10-01,ITEM007,Battery,Bangalore,198
+2025-11-01,ITEM007,Battery,Bangalore,210
+2025-12-01,ITEM007,Battery,Bangalore,214
+2022-01-01,ITEM007,Battery,Rasipuram,143
+2022-02-01,ITEM007,Battery,Rasipuram,146
+2022-03-01,ITEM007,Battery,Rasipuram,159
+2022-04-01,ITEM007,Battery,Rasipuram,191
+2022-05-01,ITEM007,Battery,Rasipuram,151
+2022-06-01,ITEM007,Battery,Rasipuram,123
+2022-07-01,ITEM007,Battery,Rasipuram,162
+2022-08-01,ITEM007,Battery,Rasipuram,156
+2022-09-01,ITEM007,Battery,Rasipuram,112
+2022-10-01,ITEM007,Battery,Rasipuram,93
+2022-11-01,ITEM007,Battery,Rasipuram,114
+2022-12-01,ITEM007,Battery,Rasipuram,126
+2023-01-01,ITEM007,Battery,Rasipuram,143
+2023-02-01,ITEM007,Battery,Rasipuram,146
+2023-03-01,ITEM007,Battery,Rasipuram,184
+2023-04-01,ITEM007,Battery,Rasipuram,189
+2023-05-01,ITEM007,Battery,Rasipuram,153
+2023-06-01,ITEM007,Battery,Rasipuram,176
+2023-07-01,ITEM007,Battery,Rasipuram,178
+2023-08-01,ITEM007,Battery,Rasipuram,136
+2023-09-01,ITEM007,Battery,Rasipuram,119
+2023-10-01,ITEM007,Battery,Rasipuram,117
+2023-11-01,ITEM007,Battery,Rasipuram,130
+2023-12-01,ITEM007,Battery,Rasipuram,115
+2024-01-01,ITEM007,Battery,Rasipuram,156
+2024-02-01,ITEM007,Battery,Rasipuram,166
+2024-03-01,ITEM007,Battery,Rasipuram,216
+2024-04-01,ITEM007,Battery,Rasipuram,188
+2024-05-01,ITEM007,Battery,Rasipuram,215
+2024-06-01,ITEM007,Battery,Rasipuram,158
+2024-07-01,ITEM007,Battery,Rasipuram,167
+2024-08-01,ITEM007,Battery,Rasipuram,146
+2024-09-01,ITEM007,Battery,Rasipuram,119
+2024-10-01,ITEM007,Battery,Rasipuram,127
+2024-11-01,ITEM007,Battery,Rasipuram,145
+2024-12-01,ITEM007,Battery,Rasipuram,140
+2025-01-01,ITEM007,Battery,Rasipuram,138
+2025-02-01,ITEM007,Battery,Rasipuram,181
+2025-03-01,ITEM007,Battery,Rasipuram,179
+2025-04-01,ITEM007,Battery,Rasipuram,194
+2025-05-01,ITEM007,Battery,Rasipuram,195
+2025-06-01,ITEM007,Battery,Rasipuram,156
+2025-07-01,ITEM007,Battery,Rasipuram,142
+2025-08-01,ITEM007,Battery,Rasipuram,155
+2025-09-01,ITEM007,Battery,Rasipuram,129
+2025-10-01,ITEM007,Battery,Rasipuram,101
+2025-11-01,ITEM007,Battery,Rasipuram,147
+2025-12-01,ITEM007,Battery,Rasipuram,155
+2022-01-01,ITEM008,Headlamp,Bangalore,212
+2022-02-01,ITEM008,Headlamp,Bangalore,223
+2022-03-01,ITEM008,Headlamp,Bangalore,293
+2022-04-01,ITEM008,Headlamp,Bangalore,290
+2022-05-01,ITEM008,Headlamp,Bangalore,334
+2022-06-01,ITEM008,Headlamp,Bangalore,268
+2022-07-01,ITEM008,Headlamp,Bangalore,242
+2022-08-01,ITEM008,Headlamp,Bangalore,206
+2022-09-01,ITEM008,Headlamp,Bangalore,205
+2022-10-01,ITEM008,Headlamp,Bangalore,195
+2022-11-01,ITEM008,Headlamp,Bangalore,214
+2022-12-01,ITEM008,Headlamp,Bangalore,203
+2023-01-01,ITEM008,Headlamp,Bangalore,231
+2023-02-01,ITEM008,Headlamp,Bangalore,257
+2023-03-01,ITEM008,Headlamp,Bangalore,309
+2023-04-01,ITEM008,Headlamp,Bangalore,338
+2023-05-01,ITEM008,Headlamp,Bangalore,280
+2023-06-01,ITEM008,Headlamp,Bangalore,263
+2023-07-01,ITEM008,Headlamp,Bangalore,254
+2023-08-01,ITEM008,Headlamp,Bangalore,216
+2023-09-01,ITEM008,Headlamp,Bangalore,219
+2023-10-01,ITEM008,Headlamp,Bangalore,156
+2023-11-01,ITEM008,Headlamp,Bangalore,189
+2023-12-01,ITEM008,Headlamp,Bangalore,209
+2024-01-01,ITEM008,Headlamp,Bangalore,201
+2024-02-01,ITEM008,Headlamp,Bangalore,259
+2024-03-01,ITEM008,Headlamp,Bangalore,280
+2024-04-01,ITEM008,Headlamp,Bangalore,308
+2024-05-01,ITEM008,Headlamp,Bangalore,339
+2024-06-01,ITEM008,Headlamp,Bangalore,282
+2024-07-01,ITEM008,Headlamp,Bangalore,237
+2024-08-01,ITEM008,Headlamp,Bangalore,232
+2024-09-01,ITEM008,Headlamp,Bangalore,233
+2024-10-01,ITEM008,Headlamp,Bangalore,188
+2024-11-01,ITEM008,Headlamp,Bangalore,197
+2024-12-01,ITEM008,Headlamp,Bangalore,249
+2025-01-01,ITEM008,Headlamp,Bangalore,262
+2025-02-01,ITEM008,Headlamp,Bangalore,316
+2025-03-01,ITEM008,Headlamp,Bangalore,321
+2025-04-01,ITEM008,Headlamp,Bangalore,352
+2025-05-01,ITEM008,Headlamp,Bangalore,294
+2025-06-01,ITEM008,Headlamp,Bangalore,303
+2025-07-01,ITEM008,Headlamp,Bangalore,269
+2025-08-01,ITEM008,Headlamp,Bangalore,218
+2025-09-01,ITEM008,Headlamp,Bangalore,192
+2025-10-01,ITEM008,Headlamp,Bangalore,230
+2025-11-01,ITEM008,Headlamp,Bangalore,219
+2025-12-01,ITEM008,Headlamp,Bangalore,226
+2022-01-01,ITEM008,Headlamp,Rasipuram,150
+2022-02-01,ITEM008,Headlamp,Rasipuram,186
+2022-03-01,ITEM008,Headlamp,Rasipuram,144
+2022-04-01,ITEM008,Headlamp,Rasipuram,162
+2022-05-01,ITEM008,Headlamp,Rasipuram,168
+2022-06-01,ITEM008,Headlamp,Rasipuram,195
+2022-07-01,ITEM008,Headlamp,Rasipuram,160
+2022-08-01,ITEM008,Headlamp,Rasipuram,149
+2022-09-01,ITEM008,Headlamp,Rasipuram,114
+2022-10-01,ITEM008,Headlamp,Rasipuram,111
+2022-11-01,ITEM008,Headlamp,Rasipuram,134
+2022-12-01,ITEM008,Headlamp,Rasipuram,143
+2023-01-01,ITEM008,Headlamp,Rasipuram,168
+2023-02-01,ITEM008,Headlamp,Rasipuram,176
+2023-03-01,ITEM008,Headlamp,Rasipuram,197
+2023-04-01,ITEM008,Headlamp,Rasipuram,201
+2023-05-01,ITEM008,Headlamp,Rasipuram,208
+2023-06-01,ITEM008,Headlamp,Rasipuram,195
+2023-07-01,ITEM008,Headlamp,Rasipuram,141
+2023-08-01,ITEM008,Headlamp,Rasipuram,118
+2023-09-01,ITEM008,Headlamp,Rasipuram,147
+2023-10-01,ITEM008,Headlamp,Rasipuram,144
+2023-11-01,ITEM008,Headlamp,Rasipuram,123
+2023-12-01,ITEM008,Headlamp,Rasipuram,125
+2024-01-01,ITEM008,Headlamp,Rasipuram,171
+2024-02-01,ITEM008,Headlamp,Rasipuram,205
+2024-03-01,ITEM008,Headlamp,Rasipuram,236
+2024-04-01,ITEM008,Headlamp,Rasipuram,219
+2024-05-01,ITEM008,Headlamp,Rasipuram,198
+2024-06-01,ITEM008,Headlamp,Rasipuram,177
+2024-07-01,ITEM008,Headlamp,Rasipuram,174
+2024-08-01,ITEM008,Headlamp,Rasipuram,151
+2024-09-01,ITEM008,Headlamp,Rasipuram,129
+2024-10-01,ITEM008,Headlamp,Rasipuram,163
+2024-11-01,ITEM008,Headlamp,Rasipuram,166
+2024-12-01,ITEM008,Headlamp,Rasipuram,174
+2025-01-01,ITEM008,Headlamp,Rasipuram,164
+2025-02-01,ITEM008,Headlamp,Rasipuram,214
+2025-03-01,ITEM008,Headlamp,Rasipuram,227
+2025-04-01,ITEM008,Headlamp,Rasipuram,229
+2025-05-01,ITEM008,Headlamp,Rasipuram,240
+2025-06-01,ITEM008,Headlamp,Rasipuram,214
+2025-07-01,ITEM008,Headlamp,Rasipuram,195
+2025-08-01,ITEM008,Headlamp,Rasipuram,173
+2025-09-01,ITEM008,Headlamp,Rasipuram,154
+2025-10-01,ITEM008,Headlamp,Rasipuram,121
+2025-11-01,ITEM008,Headlamp,Rasipuram,152
+2025-12-01,ITEM008,Headlamp,Rasipuram,158
+2022-01-01,ITEM009,Tyre,Bangalore,219
+2022-02-01,ITEM009,Tyre,Bangalore,318
+2022-03-01,ITEM009,Tyre,Bangalore,343
+2022-04-01,ITEM009,Tyre,Bangalore,344
+2022-05-01,ITEM009,Tyre,Bangalore,307
+2022-06-01,ITEM009,Tyre,Bangalore,315
+2022-07-01,ITEM009,Tyre,Bangalore,255
+2022-08-01,ITEM009,Tyre,Bangalore,232
+2022-09-01,ITEM009,Tyre,Bangalore,188
+2022-10-01,ITEM009,Tyre,Bangalore,209
+2022-11-01,ITEM009,Tyre,Bangalore,211
+2022-12-01,ITEM009,Tyre,Bangalore,205
+2023-01-01,ITEM009,Tyre,Bangalore,261
+2023-02-01,ITEM009,Tyre,Bangalore,290
+2023-03-01,ITEM009,Tyre,Bangalore,366
+2023-04-01,ITEM009,Tyre,Bangalore,350
+2023-05-01,ITEM009,Tyre,Bangalore,318
+2023-06-01,ITEM009,Tyre,Bangalore,304
+2023-07-01,ITEM009,Tyre,Bangalore,271
+2023-08-01,ITEM009,Tyre,Bangalore,237
+2023-09-01,ITEM009,Tyre,Bangalore,199
+2023-10-01,ITEM009,Tyre,Bangalore,210
+2023-11-01,ITEM009,Tyre,Bangalore,207
+2023-12-01,ITEM009,Tyre,Bangalore,218
+2024-01-01,ITEM009,Tyre,Bangalore,290
+2024-02-01,ITEM009,Tyre,Bangalore,320
+2024-03-01,ITEM009,Tyre,Bangalore,279
+2024-04-01,ITEM009,Tyre,Bangalore,339
+2024-05-01,ITEM009,Tyre,Bangalore,366
+2024-06-01,ITEM009,Tyre,Bangalore,344
+2024-07-01,ITEM009,Tyre,Bangalore,311
+2024-08-01,ITEM009,Tyre,Bangalore,255
+2024-09-01,ITEM009,Tyre,Bangalore,214
+2024-10-01,ITEM009,Tyre,Bangalore,203
+2024-11-01,ITEM009,Tyre,Bangalore,241
+2024-12-01,ITEM009,Tyre,Bangalore,267
+2025-01-01,ITEM009,Tyre,Bangalore,325
+2025-02-01,ITEM009,Tyre,Bangalore,357
+2025-03-01,ITEM009,Tyre,Bangalore,346
+2025-04-01,ITEM009,Tyre,Bangalore,320
+2025-05-01,ITEM009,Tyre,Bangalore,343
+2025-06-01,ITEM009,Tyre,Bangalore,337
+2025-07-01,ITEM009,Tyre,Bangalore,294
+2025-08-01,ITEM009,Tyre,Bangalore,253
+2025-09-01,ITEM009,Tyre,Bangalore,250
+2025-10-01,ITEM009,Tyre,Bangalore,225
+2025-11-01,ITEM009,Tyre,Bangalore,232
+2025-12-01,ITEM009,Tyre,Bangalore,279
+2022-01-01,ITEM009,Tyre,Rasipuram,159
+2022-02-01,ITEM009,Tyre,Rasipuram,188
+2022-03-01,ITEM009,Tyre,Rasipuram,203
+2022-04-01,ITEM009,Tyre,Rasipuram,183
+2022-05-01,ITEM009,Tyre,Rasipuram,191
+2022-06-01,ITEM009,Tyre,Rasipuram,212
+2022-07-01,ITEM009,Tyre,Rasipuram,152
+2022-08-01,ITEM009,Tyre,Rasipuram,123
+2022-09-01,ITEM009,Tyre,Rasipuram,115
+2022-10-01,ITEM009,Tyre,Rasipuram,135
+2022-11-01,ITEM009,Tyre,Rasipuram,140
+2022-12-01,ITEM009,Tyre,Rasipuram,153
+2023-01-01,ITEM009,Tyre,Rasipuram,194
+2023-02-01,ITEM009,Tyre,Rasipuram,148
+2023-03-01,ITEM009,Tyre,Rasipuram,217
+2023-04-01,ITEM009,Tyre,Rasipuram,247
+2023-05-01,ITEM009,Tyre,Rasipuram,190
+2023-06-01,ITEM009,Tyre,Rasipuram,192
+2023-07-01,ITEM009,Tyre,Rasipuram,167
+2023-08-01,ITEM009,Tyre,Rasipuram,148
+2023-09-01,ITEM009,Tyre,Rasipuram,142
+2023-10-01,ITEM009,Tyre,Rasipuram,160
+2023-11-01,ITEM009,Tyre,Rasipuram,173
+2023-12-01,ITEM009,Tyre,Rasipuram,159
+2024-01-01,ITEM009,Tyre,Rasipuram,216
+2024-02-01,ITEM009,Tyre,Rasipuram,206
+2024-03-01,ITEM009,Tyre,Rasipuram,257
+2024-04-01,ITEM009,Tyre,Rasipuram,226
+2024-05-01,ITEM009,Tyre,Rasipuram,226
+2024-06-01,ITEM009,Tyre,Rasipuram,216
+2024-07-01,ITEM009,Tyre,Rasipuram,244
+2024-08-01,ITEM009,Tyre,Rasipuram,182
+2024-09-01,ITEM009,Tyre,Rasipuram,145
+2024-10-01,ITEM009,Tyre,Rasipuram,163
+2024-11-01,ITEM009,Tyre,Rasipuram,151
+2024-12-01,ITEM009,Tyre,Rasipuram,165
+2025-01-01,ITEM009,Tyre,Rasipuram,210
+2025-02-01,ITEM009,Tyre,Rasipuram,217
+2025-03-01,ITEM009,Tyre,Rasipuram,239
+2025-04-01,ITEM009,Tyre,Rasipuram,241
+2025-05-01,ITEM009,Tyre,Rasipuram,243
+2025-06-01,ITEM009,Tyre,Rasipuram,229
+2025-07-01,ITEM009,Tyre,Rasipuram,165
+2025-08-01,ITEM009,Tyre,Rasipuram,189
+2025-09-01,ITEM009,Tyre,Rasipuram,148
+2025-10-01,ITEM009,Tyre,Rasipuram,137
+2025-11-01,ITEM009,Tyre,Rasipuram,163
+2025-12-01,ITEM009,Tyre,Rasipuram,183
+2022-01-01,ITEM010,Oil Filter,Bangalore,251
+2022-02-01,ITEM010,Oil Filter,Bangalore,321
+2022-03-01,ITEM010,Oil Filter,Bangalore,283
+2022-04-01,ITEM010,Oil Filter,Bangalore,319
+2022-05-01,ITEM010,Oil Filter,Bangalore,308
+2022-06-01,ITEM010,Oil Filter,Bangalore,303
+2022-07-01,ITEM010,Oil Filter,Bangalore,283
+2022-08-01,ITEM010,Oil Filter,Bangalore,224
+2022-09-01,ITEM010,Oil Filter,Bangalore,240
+2022-10-01,ITEM010,Oil Filter,Bangalore,219
+2022-11-01,ITEM010,Oil Filter,Bangalore,189
+2022-12-01,ITEM010,Oil Filter,Bangalore,207
+2023-01-01,ITEM010,Oil Filter,Bangalore,283
+2023-02-01,ITEM010,Oil Filter,Bangalore,310
+2023-03-01,ITEM010,Oil Filter,Bangalore,338
+2023-04-01,ITEM010,Oil Filter,Bangalore,350
+2023-05-01,ITEM010,Oil Filter,Bangalore,351
+2023-06-01,ITEM010,Oil Filter,Bangalore,350
+2023-07-01,ITEM010,Oil Filter,Bangalore,263
+2023-08-01,ITEM010,Oil Filter,Bangalore,233
+2023-09-01,ITEM010,Oil Filter,Bangalore,215
+2023-10-01,ITEM010,Oil Filter,Bangalore,237
+2023-11-01,ITEM010,Oil Filter,Bangalore,267
+2023-12-01,ITEM010,Oil Filter,Bangalore,255
+2024-01-01,ITEM010,Oil Filter,Bangalore,232
+2024-02-01,ITEM010,Oil Filter,Bangalore,283
+2024-03-01,ITEM010,Oil Filter,Bangalore,333
+2024-04-01,ITEM010,Oil Filter,Bangalore,352
+2024-05-01,ITEM010,Oil Filter,Bangalore,350
+2024-06-01,ITEM010,Oil Filter,Bangalore,341
+2024-07-01,ITEM010,Oil Filter,Bangalore,299
+2024-08-01,ITEM010,Oil Filter,Bangalore,301
+2024-09-01,ITEM010,Oil Filter,Bangalore,236
+2024-10-01,ITEM010,Oil Filter,Bangalore,224
+2024-11-01,ITEM010,Oil Filter,Bangalore,264
+2024-12-01,ITEM010,Oil Filter,Bangalore,241
+2025-01-01,ITEM010,Oil Filter,Bangalore,327
+2025-02-01,ITEM010,Oil Filter,Bangalore,355
+2025-03-01,ITEM010,Oil Filter,Bangalore,374
+2025-04-01,ITEM010,Oil Filter,Bangalore,446
+2025-05-01,ITEM010,Oil Filter,Bangalore,361
+2025-06-01,ITEM010,Oil Filter,Bangalore,424
+2025-07-01,ITEM010,Oil Filter,Bangalore,317
+2025-08-01,ITEM010,Oil Filter,Bangalore,256
+2025-09-01,ITEM010,Oil Filter,Bangalore,266
+2025-10-01,ITEM010,Oil Filter,Bangalore,231
+2025-11-01,ITEM010,Oil Filter,Bangalore,248
+2025-12-01,ITEM010,Oil Filter,Bangalore,305
+2022-01-01,ITEM010,Oil Filter,Rasipuram,187
+2022-02-01,ITEM010,Oil Filter,Rasipuram,188
+2022-03-01,ITEM010,Oil Filter,Rasipuram,234
+2022-04-01,ITEM010,Oil Filter,Rasipuram,244
+2022-05-01,ITEM010,Oil Filter,Rasipuram,245
+2022-06-01,ITEM010,Oil Filter,Rasipuram,213
+2022-07-01,ITEM010,Oil Filter,Rasipuram,206
+2022-08-01,ITEM010,Oil Filter,Rasipuram,137
+2022-09-01,ITEM010,Oil Filter,Rasipuram,146
+2022-10-01,ITEM010,Oil Filter,Rasipuram,134
+2022-11-01,ITEM010,Oil Filter,Rasipuram,153
+2022-12-01,ITEM010,Oil Filter,Rasipuram,159
+2023-01-01,ITEM010,Oil Filter,Rasipuram,186
+2023-02-01,ITEM010,Oil Filter,Rasipuram,247
+2023-03-01,ITEM010,Oil Filter,Rasipuram,224
+2023-04-01,ITEM010,Oil Filter,Rasipuram,243
+2023-05-01,ITEM010,Oil Filter,Rasipuram,225
+2023-06-01,ITEM010,Oil Filter,Rasipuram,216
+2023-07-01,ITEM010,Oil Filter,Rasipuram,195
+2023-08-01,ITEM010,Oil Filter,Rasipuram,181
+2023-09-01,ITEM010,Oil Filter,Rasipuram,176
+2023-10-01,ITEM010,Oil Filter,Rasipuram,177
+2023-11-01,ITEM010,Oil Filter,Rasipuram,165
+2023-12-01,ITEM010,Oil Filter,Rasipuram,186
+2024-01-01,ITEM010,Oil Filter,Rasipuram,179
+2024-02-01,ITEM010,Oil Filter,Rasipuram,221
+2024-03-01,ITEM010,Oil Filter,Rasipuram,260
+2024-04-01,ITEM010,Oil Filter,Rasipuram,266
+2024-05-01,ITEM010,Oil Filter,Rasipuram,247
+2024-06-01,ITEM010,Oil Filter,Rasipuram,245
+2024-07-01,ITEM010,Oil Filter,Rasipuram,214
+2024-08-01,ITEM010,Oil Filter,Rasipuram,203
+2024-09-01,ITEM010,Oil Filter,Rasipuram,172
+2024-10-01,ITEM010,Oil Filter,Rasipuram,157
+2024-11-01,ITEM010,Oil Filter,Rasipuram,174
+2024-12-01,ITEM010,Oil Filter,Rasipuram,137
+2025-01-01,ITEM010,Oil Filter,Rasipuram,218
+2025-02-01,ITEM010,Oil Filter,Rasipuram,158
+2025-03-01,ITEM010,Oil Filter,Rasipuram,214
+2025-04-01,ITEM010,Oil Filter,Rasipuram,271
+2025-05-01,ITEM010,Oil Filter,Rasipuram,266
+2025-06-01,ITEM010,Oil Filter,Rasipuram,214
+2025-07-01,ITEM010,Oil Filter,Rasipuram,202
+2025-08-01,ITEM010,Oil Filter,Rasipuram,217
+2025-09-01,ITEM010,Oil Filter,Rasipuram,169
+2025-10-01,ITEM010,Oil Filter,Rasipuram,205
+2025-11-01,ITEM010,Oil Filter,Rasipuram,178
+2025-12-01,ITEM010,Oil Filter,Rasipuram,203
